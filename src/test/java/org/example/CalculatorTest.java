@@ -1,3 +1,10 @@
+/*
+Student number: [B211202059]
+First name and last name: [Mehmet Selim Dere]
+Course name and homework Info: Yazılım Doğrulama ve Onaylama - Homework 1
+GitHub repository address: [https://github.com/MehmetSelimDere/TDDExample2.git]
+*/
+
 package org.example;
 
 import org.junit.jupiter.params.ParameterizedTest;
